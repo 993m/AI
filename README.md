@@ -1,2 +1,2 @@
 # Learning-AI
-https://www.kaggle.com/competitions/flower-classification-with-tpus/data
+https://www.kaggle.com/competitions/digit-recognizer/overview
